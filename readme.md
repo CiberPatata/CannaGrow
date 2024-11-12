@@ -26,5 +26,24 @@ Este proyecto está desarrollado utilizando las siguientes tecnologías:
 - **JavaFX o Swing** (opcional): Para la creación de la aplicación de escritorio de administración.
 - **Maven o Gradle**: Herramienta de gestión de dependencias para Java.
 
-## Estructura del Proyecto
+## Contribución
 
+Las contribuciones son bienvenidas. Si deseas colaborar en **CannaGrow**, por favor sigue estos pasos:
+
+1. Haz un fork del proyecto.
+2. Crea una rama para tu funcionalidad o corrección de errores (`git checkout -b nueva-funcionalidad`).
+3. Realiza un commit de tus cambios (`git commit -m 'Añadir nueva funcionalidad'`).
+4. Haz push a la rama (`git push origin nueva-funcionalidad`).
+5. Abre un Pull Request.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
+
+## Contacto
+
+Para preguntas o sugerencias, puedes ponerte en contacto a través de [tu_email@dominio.com](mailto:tu_email@dominio.com) o abrir un issue en este repositorio.
+
+---
+
+¡Gracias por visitar **CannaGrow** y contribuir a su desarrollo!
